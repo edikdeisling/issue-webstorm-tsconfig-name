@@ -1,0 +1,7 @@
+{
+	"name": "issue-webstorm-several-tsconfigs",
+	"version": "1.0.0",
+	"dependencies": {
+		"typescript": "5.0.4"
+	}
+}
